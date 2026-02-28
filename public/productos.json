@@ -1,0 +1,163 @@
+{
+  "rosas": [
+    {
+      "id": "re1",
+      "nombre": "Ramo buchon",
+      "precio": 55,
+      "categoria": "rosas",
+      "seccion": "rosas",
+      "descripcion": "Rosa preservada en caja con forma de corazón, ideal para regalo romántico.",
+      "imagen": "ramobuchon.jpg"
+    },
+    {
+      "id": "re2",
+      "nombre": "Ramo primavera",
+      "precio": 45,
+      "categoria": "rosas",
+      "seccion": "rosas",
+      "descripcion": "Rosa eterna bajo domo de cristal, elegante y duradera.",
+      "imagen": "ramoprimavera.jpg"
+    },
+    {
+      "id": "re3",
+      "nombre": "Ramo corazón",
+      "precio": 85,
+      "categoria": "rosas",
+      "seccion": "rosas",
+      "descripcion": "Set de 3 rosas preservadas con base decorativa.",
+      "imagen": "ramocorazon.jpg"
+    },
+    {
+      "id": "re4",
+      "nombre": "Ramo cielo",
+      "precio": 55,
+      "categoria": "rosas",
+      "seccion": "rosas",
+      "descripcion": "Rosa eterna con base con luz LED, efecto especial.",
+      "imagen": "ramoazul.jpg"
+    },
+    {
+      "id": "re5",
+      "nombre": "Ramo violeta",
+      "precio": 40,
+      "categoria": "rosas",
+      "seccion": "rosas",
+      "descripcion": "Combo rosa eterna con chocolates premium.",
+      "imagen": "ramovioleta.jpg"
+    },
+    {
+      "id": "tu1",
+      "nombre": "Ramo Tulipán rosa",
+      "precio": 42,
+      "categoria": "rosas",
+      "seccion": "tulipanes",
+      "descripcion": "Tulipán preservado, elegante y delicado.",
+      "imagen": "tulipanrosa.jpg"
+    },
+    {
+      "id": "tu2",
+      "nombre": "Tulipán individual",
+      "precio": 25,
+      "categoria": "rosas",
+      "seccion": "tulipanes",
+      "descripcion": "Set de tulipanes eternos en tonos pastel.",
+      "imagen": "tulipanindividual.jpg"
+    },
+    {
+      "id": "gi1",
+      "nombre": "Ramo Girasol buchon",
+      "precio": 78,
+      "categoria": "rosas",
+      "seccion": "girasoles",
+      "descripcion": "Girasol preservado que brilla en cualquier espacio.",
+      "imagen": "ramogirasolbuchon.jpg"
+    },
+    {
+      "id": "gi2",
+      "nombre": "Girasol individual",
+      "precio": 15,
+      "categoria": "rosas",
+      "seccion": "girasoles",
+      "descripcion": "Ramo de girasoles que transmiten alegría.",
+      "imagen": "girasolindividual.jpg"
+    },
+    {
+      "id": "rm1",
+      "nombre": "Tulipanes y girasole",
+      "precio": 35,
+      "categoria": "rosas",
+      "seccion": "ramos-mixto",
+      "descripcion": "Combinación de rosas y tulipanes eternos.",
+      "imagen": "tulipanygirasol.jpg"
+    },
+    {
+      "id": "rm2",
+      "nombre": "rosas y girasoles",
+      "precio": 70,
+      "categoria": "rosas",
+      "seccion": "ramos-mixto",
+      "descripcion": "Mezcla de flores preservadas para un detalle único.",
+      "imagen": "rosaygirasol.jpg"
+    },
+    {
+      "id": "te1",
+      "nombre": "spiderman tematica",
+      "precio": 40,
+      "categoria": "rosas",
+      "seccion": "tematica",
+      "descripcion": "Detalle temático San Valentín con rosa eterna.",
+      "imagen": "ramospiderman.jpg"
+    },
+    {
+      "id": "te2",
+      "nombre": "Ramo intensamente",
+      "precio": 25,
+      "categoria": "rosas",
+      "seccion": "tematica",
+      "descripcion": "Arreglo especial para celebrar cumpleaños.",
+      "imagen": "ramointensamente.jpg"
+    }
+  ],
+  "maquillaje": [
+    {
+      "id": "mq1",
+      "nombre": "Polvo hadas Jarussa",
+      "precio": 7,
+      "categoria": "maquillaje",
+      "descripcion": "Paleta de tonos nude para looks naturales.",
+      "imagen": "polvohadas.jpg"
+    },
+    {
+      "id": "mq2",
+      "nombre": "Tinta labios The Game Jarussa",
+      "precio": 4,
+      "categoria": "maquillaje",
+      "descripcion": "Pack de 3 labiales mate de larga duración.",
+      "imagen": "tintalabial.jpg"
+    },
+    {
+      "id": "mq3",
+      "nombre": "Iluminador Cusco Jarussa",
+      "precio": 8,
+      "categoria": "maquillaje",
+      "descripcion": "Base y corrector en tonos adaptables.",
+      "imagen": "iluminador.png"
+    },
+    {
+      "id": "mq4",
+      "nombre": "Labial Terciopelo Latinas Jarussa",
+      "precio": 25,
+      "categoria": "maquillaje",
+      "descripcion": "Rímel y pestañas postizas naturales.",
+      "imagen": "labialterciopelo.jpg"
+    },
+    {
+      "id": "mq5",
+      "nombre": "Base orale Jarussa",
+      "precio": 8,
+      "categoria": "maquillaje",
+      "descripcion": "Kit completo para un look de ocasión especial.",
+      "imagen": "baseorale.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "bannerInicio": [
+    "banner-inicio.jpg",
+    "banner-2.jpg",
+    "banner-3.jpg"
+  ],
+  "categoriaFlores": "categoria-flores.jpg",
+  "categoriaMaquillaje": "categoria-maquillaje.jpg",
+  "secciones": {
+    "rosas": "rosas.jpg",
+    "tulipanes": "tulipanes.jpg",
+    "girasoles": "girasoles.jpg",
+    "ramos-mixto": "ramos-mixto.jpg",
+    "tematica": "tematica.jpg"
+  },
+  "descuentoOferta": 15
+}
